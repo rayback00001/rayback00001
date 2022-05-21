@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayback00001&label=Profile%20views&color=0e75b6&style=flat" alt="rayback00001" /> </p>
 
-- 🔭 I’m currently programming ** a Webshop**
+- 🔭 I’m currently programming **a Webshop**
 
 - 🌱 I’m currently learning **JS**
 
