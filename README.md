@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayback00001&label=Profile%20views&color=0e75b6&style=flat" alt="rayback00001" /> </p>
 
-- 🔭 I’m currently working on **programming a Webshop**
+- 🔭 I’m currently working on my **Portfolio**
 
 - 🌱 I’m currently learning **JS**
 
