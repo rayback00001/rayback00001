@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **JS, Angular**
 
-- 📫 How to reach me **rakul.rajgopu1@gmail.com**
-
 - ⚡ Fun fact **An ostrich's eye is bigger than its brain**
 
 
