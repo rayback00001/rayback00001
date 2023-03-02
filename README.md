@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rakul</h1>
 <h3 align="center">A passionate software developer from Switzerland</h3></br>
 
-- 🔭 I’m currently working on my **Webportfolio**
+- 🔭 I’m currently working on a **Learning Platform**
 
-- 🌱 I’m currently learning **JS, Angular**
+- 🌱 I’m currently learning **Angular, Laravel**
 
 - ⚡ Fun fact **An ostrich's eye is bigger than its brain**
 
