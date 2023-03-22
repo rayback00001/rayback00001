@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Learning Platform**
 
-- 🌱 I’m currently learning **Angular, Laravel**
+- 🌱 I’m currently learning **Laravel**
 
 - ⚡ Fun fact **An ostrich's eye is bigger than its brain**
 
